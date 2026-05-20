@@ -1,6 +1,6 @@
 # Exercício 4 — Microsoft Azure e Serviços Cognitivos
 
-Projeto desenvolvido para a disciplina de Tecnologias da Informação II da PUC Minas, com o objetivo de explorar recursos de computação em nuvem utilizando a plataforma Microsoft Azure.
+Projeto desenvolvido para a disciplina de Trabalho Interdisciplinar II: Back-End da PUC Minas, com o objetivo de explorar recursos de computação em nuvem utilizando a plataforma Microsoft Azure.
 
 O trabalho aborda:
 - Criação e configuração de conta Azure for Students
